@@ -1,0 +1,32 @@
+{
+  "name": "astralbot-ex",
+  "version": "0.1.0",
+  "description": "Example to interact with an astralBot instance.",
+  "main": "astralbot-example.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AstralBotAI/AstralBot-js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local": "node astralbot-example.js localhost:8080",
+    "remote": "node astralbot-example.js 192.168.0.22:8080"
+  },
+  "keywords": [
+    "AI",
+    "ML",
+    "bot",
+    "astral",
+    "astralbot",
+    "astralBot",
+    "AstralBot"
+  ],
+  "author": "Nicolas Gargaud <jacen92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "astralbot": "^0.1.0"
+  },
+  "engines": {
+    "node": ">= 12"
+  }
+}
