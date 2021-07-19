@@ -99,4 +99,4 @@ You will find all information [here](https://github.com/AstralBotAI/AstralBot-en
 Where to find the community?
 ============================
 
-A discord server is availble, let me know to get the link.
+A discord is availble [here](https://discord.gg/Xq33rrHFue).
